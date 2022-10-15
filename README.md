@@ -1,8 +1,7 @@
 # Google supported Virtual Internship (Kotlin)
 
 ## Final Projects
-
-<a href="https://g.dev/himanshunegi">![](https://www.gstatic.com/devrel-devsite/prod/v9eb0a68c50fa0c6b1afdb82e43cb226b708457a7baa5e30ae58e6622680d91f8/developers/images/lockup.svg)</a>
+<a href="https://g.dev/himanshunegi"><img height= "100px" src="https://www.gstatic.com/devrel-devsite/prod/v9eb0a68c50fa0c6b1afdb82e43cb226b708457a7baa5e30ae58e6622680d91f8/developers/images/lockup.svg"></a>
 
 1. Nearby Business Application
 

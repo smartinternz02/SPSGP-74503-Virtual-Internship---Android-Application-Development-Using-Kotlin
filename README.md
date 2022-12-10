@@ -9,4 +9,4 @@
 
 2. Food Groceries Application
 
-  <img src="sample_ss/home.jpg" width=150/> <img src="sample_ss/merchant.jpg" width=150/>
+   <img src="Food Grocery App/sample_ss/home.jpg" width=210/> <img src="Food Grocery App/sample_ss/merchant.jpg" width=210/> <img src="Food Grocery App/sample_ss/product.jpg" width=210/>

@@ -9,4 +9,4 @@
 
 2. Food Groceries Application
 
-   <img src="https://i.ibb.co/0hztP1g/1.png" alt="1" border="0">
+  <img src="sample_ss/home.jpg" width=150/> <img src="sample_ss/merchant.jpg" width=150/>
